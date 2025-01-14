@@ -124,7 +124,11 @@ npm run preview
 
 1. **Agregar un nuevo video**
    - Clic en el botón "Nuevo Video"
+   - ![image](https://github.com/user-attachments/assets/a103aa86-e7de-49cf-831f-909a3ca60757)
+
    - Completar el formulario con:
+   - ![image](https://github.com/user-attachments/assets/296b65a7-1624-41b8-ab5f-9ff11405e57b)
+
      - Título
      - Categoría
      - URL de la imagen
@@ -132,16 +136,24 @@ npm run preview
      - Descripción
 
 2. **Editar un video**
+   ![image](https://github.com/user-attachments/assets/6abe7d6b-b11e-4771-8f0e-2bd0dcfa996a)
+
    - Clic en el ícono de edición en la tarjeta del video
    - Modificar los campos deseados
    - Guardar cambios
 
-3. **Eliminar un video**
+4. **Eliminar un video**
+   ![image](https://github.com/user-attachments/assets/c615cfc9-bf73-44e5-9fbd-2a31ce362937)
+
    - Clic en el ícono de eliminar en la tarjeta del video
    - Confirmar la eliminación
 
-4. **Reproducir un video**
+6. **Reproducir un video**
+   ![image](https://github.com/user-attachments/assets/3236b70a-4566-4222-98e5-3a090e4b6fde)
+
    - Clic en la tarjeta del video
+   - ![image](https://github.com/user-attachments/assets/86279c7c-d1df-4b71-8b98-c112279a0305)
+
    - El video se reproducirá en un modal
 
 ## 🎨 Personalización
