@@ -121,10 +121,11 @@ npm run preview
 ```
 
 ## 📱 Uso
+![image](https://github.com/user-attachments/assets/3b9d9377-6c0d-499e-a9c6-608d2e86caff)
 
 1. **Agregar un nuevo video**
    - Clic en el botón "Nuevo Video"
-   - ![image](https://github.com/user-attachments/assets/a103aa86-e7de-49cf-831f-909a3ca60757)
+![image](https://github.com/user-attachments/assets/5bf16a83-9ceb-4ef5-b475-ba7702a39a76)
 
    - Completar el formulario con:
    - ![image](https://github.com/user-attachments/assets/296b65a7-1624-41b8-ab5f-9ff11405e57b)
