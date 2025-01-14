@@ -197,7 +197,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.m
 
 ## 👥 Autores
 
-* **Tu Nombre** - *Desarrollo Inicial* - [TuUsuario](https://github.com/jotaid)
+* **Jose Idrobo Daza** - *Desarrollo Inicial* - [jotaid](https://github.com/jotaid)
 
 ## 🎯 Próximas Mejoras
 
